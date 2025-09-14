@@ -25,15 +25,15 @@ This assignment should prove that a student is able to:
 - [ ] Initialize playwright and install project packages
   - [X] Use `npm i` to install packages
         - it is okay to see warnings after this steps - as long as node_modules folder is created you are alright!
-  - [ ] Use `npm run browser-install` to install the browser environment for testing 
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [X] Use `npm run browser-install` to install the browser environment for testing 
+- [X] All the tasks of the "Specific requirements" section MUST be solved
+- [X] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
+  - [X] Use `npm run test` to run all tests in the terminal
+  - [X] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
+- [X] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [X] The code MUST be formatted with Prettier
+- [X] Push the changes to the Github repo, when finished.
 - [ ] Submit a txt file with the Github repo url.
 
 ## Specific requirements
